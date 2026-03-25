@@ -79,8 +79,8 @@ public class ForExample {
 		
 		int count = 0;
 		
-		for(int i = 1; i <=10; i++) {
-			System.out.println(i + "번째 숫자 입력: ");
+		for(int i = 0; i <=9; i++) {
+			System.out.println("입력: ");
 			int nu = sc.nextInt();
 			
 			if(nu % 2 ==0) {
