@@ -1,3 +1,6 @@
+
+
+
 package ex7_array;
 
 public class ArrayExample {
@@ -44,7 +47,8 @@ public class ArrayExample {
 		
 		int su = 0;
 		
-		for(int i = 0; i<iAr.length; i++) {
+		for(int i = 0; i<iAr
+				.length; i++) {
 			su += iAr[i];
 		}
 		
