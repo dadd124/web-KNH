@@ -10,7 +10,7 @@ public class Ex2_ByteExample {
 		
 		System.out.println("var1 :" + var1);
 		byte var2 = 127;
-		byte var3 = 128; // 오버플로우
+//		byte var3 = 128; // 오버플로우
 		
 	}
 }

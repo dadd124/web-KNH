@@ -1,0 +1,8 @@
+
+package ex7_A;
+
+public class FountainPen extends BallPen{
+//	public void refill(int n) {
+//		setAmount(n);
+//	}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+}
